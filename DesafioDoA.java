@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class treino3 {
+public class DesafiodoA {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class treino3 {
             }
         }
         if (contador > 0) {
-            System.out.println("Tem" + contador + "A");
+            System.out.println("Tem " + contador + " A");
         }
 
     }
